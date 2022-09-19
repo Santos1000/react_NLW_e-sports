@@ -10,6 +10,7 @@ at "https://www.twitch.tv/", all the components are in React and very well style
 
 
 Visit somo of the libraries used:
+
 https://expo.dev/
 
 https://tailwindcss.com/
